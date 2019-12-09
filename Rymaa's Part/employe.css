@@ -1,0 +1,23 @@
+body{
+
+    background-image: url("img/dd.jpg");
+    background-repeat: no-repeat;
+}
+div.jumbotron
+{margin-top: -40px;
+margin-left: 800px;
+background-color: #e3f6f5;
+width :500px;
+height:600px;
+}
+
+h3
+{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+p{margin-left: 120px;}
+.col-md-6
+{
+    margin-left: 120px;
+}

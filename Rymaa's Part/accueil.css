@@ -1,0 +1,111 @@
+h3{
+    text-align: center;
+    margin-top: 40px;
+}
+div.first
+{margin-left: -30px;
+    width:1200px;
+    height:200px;
+    background-color:#f4f4f4;
+    margin-top: 30px;
+}
+img.beak
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    }
+
+    div.min
+    {  margin-left: 60px;
+        width:200px;
+        height:200px;
+    }
+    div.min1
+    {
+        margin-left: 270px;
+        margin-top: -200px;
+        width: 200px;
+        height: 200px;
+        
+
+    }
+    div.min2
+    {
+        margin-left: 480px;
+        margin-top: -200px;
+        width: 200px;
+        height: 200px;
+        
+
+    }
+    div.min3
+    {
+        margin-left: 690px;
+        margin-top: -200px;
+        width: 200px;
+        height: 200px;
+        
+
+    }
+    div.min4
+    {
+        margin-left: 910px;
+        margin-top: -200px;
+        width: 200px;
+        height: 200px;
+        
+
+    }
+    div.work
+    {
+        width: 350px;
+        height: 500px;
+        margin-top: 50px;
+        background-color:#de9893 ;
+
+    }
+    div.work1
+    {
+        width: 350px;
+        height: 500px;
+        margin-left: 400px;
+        margin-top: -498px;
+        background-color:#ff8100;
+    }
+    div.work2
+    {
+        margin-left: 790px;
+        width: 350px;
+        height: 500px;
+        margin-top: -505px;
+        background-color: #8dced4;
+
+    }
+    img.f1
+    {
+        width:350px;
+        height: 250px;
+    }
+    h3.thumb
+    {
+        color:white;
+    }
+    h5{
+        color: white;
+        margin-left: 10px;
+    }
+    .btn
+    {
+        margin-left: 90px;
+        margin-top: -30px;
+        background-color: #d6e5fa;
+    }
+    .ft
+{background-color: #393e46;
+margin-top: 40px;
+color :white;
+text-align: center;
+height: 50px;
+
+}
